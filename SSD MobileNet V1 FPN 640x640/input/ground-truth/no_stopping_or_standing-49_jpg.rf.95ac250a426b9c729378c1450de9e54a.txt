@@ -1,0 +1,1 @@
+no_stopping_or_standing 112 108 571 552

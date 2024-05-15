@@ -1,0 +1,1 @@
+right_turn_prohibited 33 44 588 608

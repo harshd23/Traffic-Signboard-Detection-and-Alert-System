@@ -1,0 +1,1 @@
+quay_side_or_river_bank 35 82 579 608

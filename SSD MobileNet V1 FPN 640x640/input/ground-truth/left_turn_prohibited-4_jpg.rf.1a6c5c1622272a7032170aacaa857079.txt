@@ -1,0 +1,1 @@
+left_turn_prohibited 63 21 582 610

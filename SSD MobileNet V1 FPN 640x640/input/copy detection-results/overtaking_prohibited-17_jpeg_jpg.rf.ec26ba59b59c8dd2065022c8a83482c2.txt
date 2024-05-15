@@ -1,0 +1,1 @@
+overtaking_prohibited 0.9104 159 186 525 450

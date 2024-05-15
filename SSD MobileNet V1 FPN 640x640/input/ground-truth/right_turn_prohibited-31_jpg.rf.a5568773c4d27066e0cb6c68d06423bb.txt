@@ -1,0 +1,1 @@
+right_turn_prohibited 358 194 507 386

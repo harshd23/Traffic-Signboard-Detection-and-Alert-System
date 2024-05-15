@@ -1,0 +1,1 @@
+narrow_road_ahead 0.6860 55 106 565 574

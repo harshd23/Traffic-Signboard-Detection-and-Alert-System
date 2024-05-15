@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>guarded_level_crossing-36_jpeg_jpg.rf.3d177c884064499d8050037ced59c80e.jpg</filename>
+	<path>guarded_level_crossing-36_jpeg_jpg.rf.3d177c884064499d8050037ced59c80e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guarded level crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>136</xmin>
+			<xmax>506</xmax>
+			<ymin>70</ymin>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>

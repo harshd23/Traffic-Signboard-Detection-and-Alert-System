@@ -1,0 +1,1 @@
+restriction_ends 0.9848 25 23 617 617

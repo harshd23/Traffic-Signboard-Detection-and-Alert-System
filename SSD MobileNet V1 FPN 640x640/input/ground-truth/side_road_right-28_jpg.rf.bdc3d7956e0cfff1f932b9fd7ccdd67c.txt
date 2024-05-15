@@ -1,0 +1,1 @@
+side_road_right 95 130 547 521

@@ -1,0 +1,1 @@
+no_stopping_or_standing 0.9589 18 33 623 627

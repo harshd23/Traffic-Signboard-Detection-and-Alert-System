@@ -1,0 +1,1 @@
+narrow_road_ahead 18 23 234 229

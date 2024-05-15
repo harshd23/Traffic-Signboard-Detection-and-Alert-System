@@ -1,0 +1,1 @@
+left_hand_curve 310 257 371 304

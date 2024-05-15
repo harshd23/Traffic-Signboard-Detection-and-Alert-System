@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>no_stopping_or_standing-49_jpg.rf.95ac250a426b9c729378c1450de9e54a.jpg</filename>
+	<path>no_stopping_or_standing-49_jpg.rf.95ac250a426b9c729378c1450de9e54a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no stopping or standing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>112</xmin>
+			<xmax>571</xmax>
+			<ymin>108</ymin>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>

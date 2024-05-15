@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>u_turn_prohibited-36_jpg.rf.3f2f5da40ada5b7e61d5b297c0715d9f.jpg</filename>
+	<path>u_turn_prohibited-36_jpg.rf.3f2f5da40ada5b7e61d5b297c0715d9f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>u turn prohibited</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>76</xmin>
+			<xmax>544</xmax>
+			<ymin>40</ymin>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

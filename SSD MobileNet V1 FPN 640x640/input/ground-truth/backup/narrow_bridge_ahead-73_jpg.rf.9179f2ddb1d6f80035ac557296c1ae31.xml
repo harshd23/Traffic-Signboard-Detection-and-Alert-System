@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>narrow_bridge_ahead-73_jpg.rf.9179f2ddb1d6f80035ac557296c1ae31.jpg</filename>
+	<path>narrow_bridge_ahead-73_jpg.rf.9179f2ddb1d6f80035ac557296c1ae31.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>narrow bridge ahead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>308</xmin>
+			<xmax>373</xmax>
+			<ymin>223</ymin>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

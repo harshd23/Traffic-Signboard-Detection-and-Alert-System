@@ -1,0 +1,1 @@
+u_turn_prohibited 143 50 558 550

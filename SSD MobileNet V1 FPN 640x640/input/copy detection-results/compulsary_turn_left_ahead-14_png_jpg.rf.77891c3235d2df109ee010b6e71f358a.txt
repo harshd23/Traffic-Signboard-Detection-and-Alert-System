@@ -1,0 +1,1 @@
+compulsary_turn_right_ahead 0.5630 35 80 581 602

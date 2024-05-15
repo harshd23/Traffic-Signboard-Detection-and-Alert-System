@@ -1,0 +1,1 @@
+right_hand_curve 28 90 611 612

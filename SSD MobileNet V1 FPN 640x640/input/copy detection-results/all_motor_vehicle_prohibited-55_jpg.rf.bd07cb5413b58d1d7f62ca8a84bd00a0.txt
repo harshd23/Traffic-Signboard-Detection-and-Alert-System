@@ -1,0 +1,1 @@
+all_motor_vehicle_prohibited 0.9578 161 91 438 471

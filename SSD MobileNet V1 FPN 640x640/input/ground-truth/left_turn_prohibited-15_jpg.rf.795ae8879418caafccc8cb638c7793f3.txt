@@ -1,0 +1,1 @@
+left_turn_prohibited 178 126 439 471

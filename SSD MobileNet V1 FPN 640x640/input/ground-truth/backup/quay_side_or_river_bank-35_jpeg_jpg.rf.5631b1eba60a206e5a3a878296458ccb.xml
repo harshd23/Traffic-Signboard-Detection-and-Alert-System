@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>quay_side_or_river_bank-35_jpeg_jpg.rf.5631b1eba60a206e5a3a878296458ccb.jpg</filename>
+	<path>quay_side_or_river_bank-35_jpeg_jpg.rf.5631b1eba60a206e5a3a878296458ccb.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quay side or river bank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>72</xmin>
+			<xmax>564</xmax>
+			<ymin>121</ymin>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>

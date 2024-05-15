@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>axle_load_limit-54_jpg.rf.092fd6f138260dcdd099e3e8a0e1407a.jpg</filename>
+	<path>axle_load_limit-54_jpg.rf.092fd6f138260dcdd099e3e8a0e1407a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>axle load limit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>621</xmax>
+			<ymin>17</ymin>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+</annotation>

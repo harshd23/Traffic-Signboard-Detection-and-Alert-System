@@ -1,0 +1,1 @@
+no_stopping_or_standing 16 18 615 619

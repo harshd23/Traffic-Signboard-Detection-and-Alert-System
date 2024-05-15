@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>left_turn_prohibited-7_jpg.rf.6f1e947f3ad6d4f04eb26206d1e025e7.jpg</filename>
+	<path>left_turn_prohibited-7_jpg.rf.6f1e947f3ad6d4f04eb26206d1e025e7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left turn prohibited</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>233</xmin>
+			<xmax>416</xmax>
+			<ymin>74</ymin>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

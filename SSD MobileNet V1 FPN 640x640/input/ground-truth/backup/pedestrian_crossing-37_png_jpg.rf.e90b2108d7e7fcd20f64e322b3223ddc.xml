@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>pedestrian_crossing-37_png_jpg.rf.e90b2108d7e7fcd20f64e322b3223ddc.jpg</filename>
+	<path>pedestrian_crossing-37_png_jpg.rf.e90b2108d7e7fcd20f64e322b3223ddc.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>49</xmin>
+			<xmax>594</xmax>
+			<ymin>46</ymin>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>

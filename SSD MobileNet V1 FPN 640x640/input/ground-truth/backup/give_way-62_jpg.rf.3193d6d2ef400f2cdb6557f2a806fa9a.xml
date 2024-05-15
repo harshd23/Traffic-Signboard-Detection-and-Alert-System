@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>give_way-62_jpg.rf.3193d6d2ef400f2cdb6557f2a806fa9a.jpg</filename>
+	<path>give_way-62_jpg.rf.3193d6d2ef400f2cdb6557f2a806fa9a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>give way</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>73</xmin>
+			<xmax>473</xmax>
+			<ymin>137</ymin>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>width_limit-28_jpg.rf.f65f29a15185e7b42a5acf06de47b16e.jpg</filename>
+	<path>width_limit-28_jpg.rf.f65f29a15185e7b42a5acf06de47b16e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>width limit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>101</xmin>
+			<xmax>427</xmax>
+			<ymin>81</ymin>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+</annotation>

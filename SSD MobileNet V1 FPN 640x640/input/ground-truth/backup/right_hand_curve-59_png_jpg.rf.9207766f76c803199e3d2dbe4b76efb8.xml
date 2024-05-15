@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>right_hand_curve-59_png_jpg.rf.9207766f76c803199e3d2dbe4b76efb8.jpg</filename>
+	<path>right_hand_curve-59_png_jpg.rf.9207766f76c803199e3d2dbe4b76efb8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right hand curve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>81</xmin>
+			<xmax>590</xmax>
+			<ymin>86</ymin>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

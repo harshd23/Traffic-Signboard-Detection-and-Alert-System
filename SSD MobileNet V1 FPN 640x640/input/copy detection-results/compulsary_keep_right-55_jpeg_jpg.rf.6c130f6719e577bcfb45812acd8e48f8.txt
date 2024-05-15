@@ -1,0 +1,1 @@
+compulsary_keep_left 0.8109 118 103 523 485

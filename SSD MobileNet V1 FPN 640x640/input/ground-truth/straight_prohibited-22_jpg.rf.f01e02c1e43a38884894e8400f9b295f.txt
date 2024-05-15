@@ -1,0 +1,1 @@
+straight_prohibited 108 43 563 563

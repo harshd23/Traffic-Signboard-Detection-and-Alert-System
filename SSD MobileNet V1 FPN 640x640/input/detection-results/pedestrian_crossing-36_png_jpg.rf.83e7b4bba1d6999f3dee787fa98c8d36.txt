@@ -1,0 +1,1 @@
+pedestrian_crossing 0.9629 59 59 581 579

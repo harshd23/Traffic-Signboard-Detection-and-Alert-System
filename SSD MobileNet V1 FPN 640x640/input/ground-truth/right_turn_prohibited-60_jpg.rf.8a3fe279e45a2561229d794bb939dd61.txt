@@ -1,0 +1,1 @@
+right_turn_prohibited 112 102 545 573

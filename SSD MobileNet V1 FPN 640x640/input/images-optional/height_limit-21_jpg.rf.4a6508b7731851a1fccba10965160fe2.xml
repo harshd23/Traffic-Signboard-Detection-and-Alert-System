@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>height_limit-21_jpg.rf.4a6508b7731851a1fccba10965160fe2.jpg</filename>
+	<path>height_limit-21_jpg.rf.4a6508b7731851a1fccba10965160fe2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>height limit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>175</xmin>
+			<xmax>469</xmax>
+			<ymin>174</ymin>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

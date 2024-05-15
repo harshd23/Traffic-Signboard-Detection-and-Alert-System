@@ -1,0 +1,1 @@
+staggered_intersection 20 29 302 536

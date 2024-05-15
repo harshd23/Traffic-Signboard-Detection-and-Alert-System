@@ -1,0 +1,1 @@
+straight_prohibited 0.8542 110 62 553 580

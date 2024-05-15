@@ -1,0 +1,1 @@
+pedestrian_crossing 63 63 567 561

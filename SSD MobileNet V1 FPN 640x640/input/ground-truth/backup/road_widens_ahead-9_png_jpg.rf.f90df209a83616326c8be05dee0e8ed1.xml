@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>road_widens_ahead-9_png_jpg.rf.f90df209a83616326c8be05dee0e8ed1.jpg</filename>
+	<path>road_widens_ahead-9_png_jpg.rf.f90df209a83616326c8be05dee0e8ed1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>road widens ahead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>46</xmin>
+			<xmax>600</xmax>
+			<ymin>24</ymin>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

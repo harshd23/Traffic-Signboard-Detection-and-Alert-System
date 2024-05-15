@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>horn_prohibited-0_jpg.rf.e304bbb16192fb614ac1620e951e33e3.jpg</filename>
+	<path>horn_prohibited-0_jpg.rf.e304bbb16192fb614ac1620e951e33e3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>horn prohibited</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>82</xmin>
+			<xmax>576</xmax>
+			<ymin>41</ymin>
+			<ymax>578</ymax>
+		</bndbox>
+	</object>
+</annotation>

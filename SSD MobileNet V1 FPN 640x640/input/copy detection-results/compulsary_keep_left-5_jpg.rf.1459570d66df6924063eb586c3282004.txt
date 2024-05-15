@@ -1,0 +1,1 @@
+restriction_ends 0.6955 90 100 535 529

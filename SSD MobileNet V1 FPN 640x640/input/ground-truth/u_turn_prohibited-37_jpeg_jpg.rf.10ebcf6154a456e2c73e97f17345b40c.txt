@@ -1,0 +1,1 @@
+u_turn_prohibited 255 13 346 173

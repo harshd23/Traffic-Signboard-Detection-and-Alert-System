@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>t_intersection-17_jpeg_jpg.rf.569ddeaff7f3b5402e94740ae76d9c68.jpg</filename>
+	<path>t_intersection-17_jpeg_jpg.rf.569ddeaff7f3b5402e94740ae76d9c68.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t intersection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>145</xmin>
+			<xmax>483</xmax>
+			<ymin>162</ymin>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

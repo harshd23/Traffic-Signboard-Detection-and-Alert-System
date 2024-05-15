@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>hump_or_rough_road-57_jpg.rf.ced43d0a5a222b5df10b062baf5c599f.jpg</filename>
+	<path>hump_or_rough_road-57_jpg.rf.ced43d0a5a222b5df10b062baf5c599f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hump or rough road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>192</xmin>
+			<xmax>333</xmax>
+			<ymin>184</ymin>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

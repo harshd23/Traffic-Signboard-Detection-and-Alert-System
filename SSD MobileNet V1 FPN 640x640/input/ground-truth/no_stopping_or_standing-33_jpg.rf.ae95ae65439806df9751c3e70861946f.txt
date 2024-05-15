@@ -1,0 +1,1 @@
+no_stopping_or_standing 35 32 605 621

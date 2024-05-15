@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>compulsary_keep_left-33_jpg.rf.85e4aeff9289eb75c6498f7af76f7e88.jpg</filename>
+	<path>compulsary_keep_left-33_jpg.rf.85e4aeff9289eb75c6498f7af76f7e88.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compulsary keep left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>481</xmin>
+			<xmax>530</xmax>
+			<ymin>79</ymin>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

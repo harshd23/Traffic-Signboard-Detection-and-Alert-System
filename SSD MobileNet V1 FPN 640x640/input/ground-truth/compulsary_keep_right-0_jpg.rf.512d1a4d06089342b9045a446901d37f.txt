@@ -1,0 +1,1 @@
+compulsary_keep_right 19 22 625 616

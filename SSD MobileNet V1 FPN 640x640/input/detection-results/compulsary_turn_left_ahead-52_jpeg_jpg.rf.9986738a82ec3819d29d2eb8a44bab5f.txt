@@ -1,0 +1,1 @@
+compulsary_turn_left_ahead 0.6928 92 90 550 549

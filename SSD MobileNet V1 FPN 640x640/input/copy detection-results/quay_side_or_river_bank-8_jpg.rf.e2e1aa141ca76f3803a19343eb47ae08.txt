@@ -1,0 +1,1 @@
+quay_side_or_river_bank 0.5887 24 24 622 617

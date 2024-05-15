@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>compulsary_turn_left_ahead-34_png_jpg.rf.0e6d1447cc62f34508b8935ddfea33e4.jpg</filename>
+	<path>compulsary_turn_left_ahead-34_png_jpg.rf.0e6d1447cc62f34508b8935ddfea33e4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compulsary turn left ahead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>46</xmin>
+			<xmax>585</xmax>
+			<ymin>61</ymin>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>

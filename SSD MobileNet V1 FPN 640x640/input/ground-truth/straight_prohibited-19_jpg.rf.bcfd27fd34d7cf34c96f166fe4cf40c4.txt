@@ -1,0 +1,1 @@
+straight_prohibited 101 41 575 584

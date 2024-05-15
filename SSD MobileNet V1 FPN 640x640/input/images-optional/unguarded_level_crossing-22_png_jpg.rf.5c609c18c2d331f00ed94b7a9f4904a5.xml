@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>unguarded_level_crossing-22_png_jpg.rf.5c609c18c2d331f00ed94b7a9f4904a5.jpg</filename>
+	<path>unguarded_level_crossing-22_png_jpg.rf.5c609c18c2d331f00ed94b7a9f4904a5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unguarded level crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>227</xmin>
+			<xmax>421</xmax>
+			<ymin>25</ymin>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,1 @@
+left_hand_curve 52 78 590 563

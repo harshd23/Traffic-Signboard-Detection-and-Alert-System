@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>loose_gravel-11_png_jpg.rf.917298a0e9c368621fee62d3c99b1b37.jpg</filename>
+	<path>loose_gravel-11_png_jpg.rf.917298a0e9c368621fee62d3c99b1b37.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loose gravel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>194</xmin>
+			<xmax>448</xmax>
+			<ymin>92</ymin>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

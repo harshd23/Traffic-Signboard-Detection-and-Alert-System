@@ -1,0 +1,1 @@
+right_turn_prohibited 92 36 609 601

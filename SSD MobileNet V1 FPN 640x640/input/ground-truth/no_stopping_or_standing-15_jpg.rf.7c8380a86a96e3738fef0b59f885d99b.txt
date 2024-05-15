@@ -1,0 +1,1 @@
+no_stopping_or_standing 120 90 537 509

@@ -1,0 +1,1 @@
+u_turn_prohibited 176 75 256 196

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>steep_descent-34_jpg.rf.78ae6895b8fbd104df1b79774c21ee57.jpg</filename>
+	<path>steep_descent-34_jpg.rf.78ae6895b8fbd104df1b79774c21ee57.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>steep descent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>27</xmin>
+			<xmax>618</xmax>
+			<ymin>51</ymin>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

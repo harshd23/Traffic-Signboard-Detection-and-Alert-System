@@ -1,0 +1,1 @@
+right_turn_prohibited 97 61 534 565

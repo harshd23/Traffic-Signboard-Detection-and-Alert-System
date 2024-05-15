@@ -1,0 +1,1 @@
+right_turn_prohibited 0.9604 91 47 598 609

@@ -1,0 +1,1 @@
+all_motor_vehicle_prohibited 19 23 626 625

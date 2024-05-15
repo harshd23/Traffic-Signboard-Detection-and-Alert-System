@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>staggered_intersection-26_png_jpg.rf.5f7cc5161cf860d066c9dcfc7b2d0989.jpg</filename>
+	<path>staggered_intersection-26_png_jpg.rf.5f7cc5161cf860d066c9dcfc7b2d0989.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>staggered intersection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>622</xmax>
+			<ymin>17</ymin>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+</annotation>

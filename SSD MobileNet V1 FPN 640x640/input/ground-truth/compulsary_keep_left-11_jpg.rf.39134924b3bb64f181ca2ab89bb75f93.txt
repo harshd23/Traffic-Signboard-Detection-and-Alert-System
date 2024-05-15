@@ -1,0 +1,1 @@
+compulsary_keep_left 118 51 223 150

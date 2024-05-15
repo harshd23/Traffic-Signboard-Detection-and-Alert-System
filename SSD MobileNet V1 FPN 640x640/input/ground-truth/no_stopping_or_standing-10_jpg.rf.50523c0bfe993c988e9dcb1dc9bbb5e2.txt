@@ -1,0 +1,1 @@
+no_stopping_or_standing 279 101 525 471

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>side_road_right-0_jpg.rf.1fe9ddc48d4c20851d579e465c9c0513.jpg</filename>
+	<path>side_road_right-0_jpg.rf.1fe9ddc48d4c20851d579e465c9c0513.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>side road right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>72</xmin>
+			<xmax>564</xmax>
+			<ymin>68</ymin>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>

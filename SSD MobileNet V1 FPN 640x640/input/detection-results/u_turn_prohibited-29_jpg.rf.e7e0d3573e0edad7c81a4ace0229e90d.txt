@@ -1,0 +1,1 @@
+u_turn_prohibited 0.8043 84 62 555 564

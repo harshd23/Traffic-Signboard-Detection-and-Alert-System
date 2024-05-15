@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>compulsary_keep_right-55_jpeg_jpg.rf.6c130f6719e577bcfb45812acd8e48f8.jpg</filename>
+	<path>compulsary_keep_right-55_jpeg_jpg.rf.6c130f6719e577bcfb45812acd8e48f8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compulsary keep right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>122</xmin>
+			<xmax>525</xmax>
+			<ymin>114</ymin>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

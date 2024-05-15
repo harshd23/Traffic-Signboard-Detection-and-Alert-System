@@ -1,0 +1,1 @@
+guarded_level_crossing 0.9689 9 39 600 618

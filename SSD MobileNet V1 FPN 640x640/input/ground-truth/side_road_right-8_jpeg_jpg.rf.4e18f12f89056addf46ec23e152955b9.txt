@@ -1,0 +1,1 @@
+side_road_right 10 15 624 626

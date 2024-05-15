@@ -1,0 +1,1 @@
+right_hand_curve 0.6518 65 28 552 552

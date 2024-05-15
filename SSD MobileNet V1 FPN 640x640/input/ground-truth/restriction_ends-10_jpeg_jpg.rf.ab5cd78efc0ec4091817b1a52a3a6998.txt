@@ -1,0 +1,1 @@
+restriction_ends 31 30 610 607

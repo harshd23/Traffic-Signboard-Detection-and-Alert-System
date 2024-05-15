@@ -1,0 +1,2 @@
+overtaking_prohibited 0.7306 175 315 478 503
+falling_rocks 0.7282 98 51 552 291

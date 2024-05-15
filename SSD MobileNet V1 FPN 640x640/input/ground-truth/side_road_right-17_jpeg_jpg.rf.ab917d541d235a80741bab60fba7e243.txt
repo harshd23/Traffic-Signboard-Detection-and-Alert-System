@@ -1,0 +1,1 @@
+side_road_right 41 80 604 560

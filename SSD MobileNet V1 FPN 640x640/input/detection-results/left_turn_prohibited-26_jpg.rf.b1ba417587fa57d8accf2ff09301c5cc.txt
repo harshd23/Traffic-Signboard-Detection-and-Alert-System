@@ -1,0 +1,1 @@
+left_turn_prohibited 0.7295 182 155 439 405

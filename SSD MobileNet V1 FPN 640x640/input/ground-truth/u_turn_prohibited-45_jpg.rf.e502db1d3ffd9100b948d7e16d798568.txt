@@ -1,0 +1,1 @@
+u_turn_prohibited 49 62 586 572

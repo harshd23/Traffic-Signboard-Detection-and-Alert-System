@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>men_at_work-35_png_jpg.rf.ea93ce276fb78c3b2051e91d104fc922.jpg</filename>
+	<path>men_at_work-35_png_jpg.rf.ea93ce276fb78c3b2051e91d104fc922.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>men at work</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>65</xmin>
+			<xmax>576</xmax>
+			<ymin>86</ymin>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>

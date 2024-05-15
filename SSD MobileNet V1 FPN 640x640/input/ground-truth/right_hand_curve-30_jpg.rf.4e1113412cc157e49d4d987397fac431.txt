@@ -1,0 +1,1 @@
+right_hand_curve 120 10 216 165
