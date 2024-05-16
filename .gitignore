@@ -15,3 +15,8 @@ runs
 test2.mp4
 test3.mp4
 Dataset
+test.record
+test_official-00000-of-00001.tfrecord
+train.record
+train_official-00000-of-00001.tfrecord
+valid_official-00000-of-00001.tfrecord
