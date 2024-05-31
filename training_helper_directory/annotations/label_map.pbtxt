@@ -1,0 +1,280 @@
+item {
+    name: "all motor vehicle prohibited",
+    id: 1,
+    display_name: "all motor vehicle prohibited"
+}
+item {
+    name: "axle load limit",
+    id: 2,
+    display_name: "axle load limit"
+}
+item {
+    name: "compulsary ahead",
+    id: 3,
+    display_name: "compulsary ahead"
+}
+item {
+    name: "compulsary keep left",
+    id: 4,
+    display_name: "compulsary keep left"
+}
+item {
+    name: "compulsary keep right",
+    id: 5,
+    display_name: "compulsary keep right"
+}
+item {
+    name: "compulsary turn left ahead",
+    id: 6,
+    display_name: "compulsary turn left ahead"
+}
+item {
+    name: "compulsary turn right ahead",
+    id: 7,
+    display_name: "compulsary turn right ahead"
+}
+item {
+    name: "cross road",
+    id: 8,
+    display_name: "cross road"
+}
+item {
+    name: "dangerous dip",
+    id: 9,
+    display_name: "dangerous dip"
+}
+item {
+    name: "falling rocks",
+    id: 10,
+    display_name: "falling rocks"
+}
+item {
+    name: "gap in median",
+    id: 11,
+    display_name: "gap in median"
+}
+item {
+    name: "give way",
+    id: 12,
+    display_name: "give way"
+}
+item {
+    name: "guarded level crossing",
+    id: 13,
+    display_name: "guarded level crossing"
+}
+item {
+    name: "height limit",
+    id: 14,
+    display_name: "height limit"
+}
+item {
+    name: "horn prohibited",
+    id: 15,
+    display_name: "horn prohibited"
+}
+item {
+    name: "hospital ahead",
+    id: 16,
+    display_name: "hospital ahead"
+}
+item {
+    name: "hump or rough road",
+    id: 17,
+    display_name: "hump or rough road"
+}
+item {
+    name: "left hand curve",
+    id: 18,
+    display_name: "left hand curve"
+}
+item {
+    name: "left reverse bend",
+    id: 19,
+    display_name: "left reverse bend"
+}
+item {
+    name: "left turn prohibited",
+    id: 20,
+    display_name: "left turn prohibited"
+}
+item {
+    name: "loose gravel",
+    id: 21,
+    display_name: "loose gravel"
+}
+item {
+    name: "men at work",
+    id: 22,
+    display_name: "men at work"
+}
+item {
+    name: "narrow bridge ahead",
+    id: 23,
+    display_name: "narrow bridge ahead"
+}
+item {
+    name: "narrow road ahead",
+    id: 24,
+    display_name: "narrow road ahead"
+}
+item {
+    name: "no entry",
+    id: 25,
+    display_name: "no entry"
+}
+item {
+    name: "no parking",
+    id: 26,
+    display_name: "no parking"
+}
+item {
+    name: "no stopping or standing",
+    id: 27,
+    display_name: "no stopping or standing"
+}
+item {
+    name: "overtaking prohibited",
+    id: 28,
+    display_name: "overtaking prohibited"
+}
+item {
+    name: "pass either side",
+    id: 29,
+    display_name: "pass either side"
+}
+item {
+    name: "pedestrian crossing",
+    id: 30,
+    display_name: "pedestrian crossing"
+}
+item {
+    name: "petrol pump ahead",
+    id: 31,
+    display_name: "petrol pump ahead"
+}
+item {
+    name: "quay side or river bank",
+    id: 32,
+    display_name: "quay side or river bank"
+}
+item {
+    name: "restriction ends",
+    id: 33,
+    display_name: "restriction ends"
+}
+item {
+    name: "right hand curve",
+    id: 34,
+    display_name: "right hand curve"
+}
+item {
+    name: "right reverse bend",
+    id: 35,
+    display_name: "right reverse bend"
+}
+item {
+    name: "right turn prohibited",
+    id: 36,
+    display_name: "right turn prohibited"
+}
+item {
+    name: "road widens ahead",
+    id: 37,
+    display_name: "road widens ahead"
+}
+item {
+    name: "roundabout",
+    id: 38,
+    display_name: "roundabout"
+}
+item {
+    name: "school ahead",
+    id: 39,
+    display_name: "school ahead"
+}
+item {
+    name: "side road left",
+    id: 40,
+    display_name: "side road left"
+}
+item {
+    name: "side road right",
+    id: 41,
+    display_name: "side road right"
+}
+item {
+    name: "slippery road",
+    id: 42,
+    display_name: "slippery road"
+}
+item {
+    name: "speed limit 100",
+    id: 43,
+    display_name: "speed limit 100"
+}
+item {
+    name: "speed limit 30",
+    id: 44,
+    display_name: "speed limit 30"
+}
+item {
+    name: "speed limit 50",
+    id: 45,
+    display_name: "speed limit 50"
+}
+item {
+    name: "staggered intersection",
+    id: 46,
+    display_name: "staggered intersection"
+}
+item {
+    name: "steep ascent",
+    id: 47,
+    display_name: "steep ascent"
+}
+item {
+    name: "steep descent",
+    id: 48,
+    display_name: "steep descent"
+}
+item {
+    name: "stop",
+    id: 49,
+    display_name: "stop"
+}
+item {
+    name: "straight prohibited",
+    id: 50,
+    display_name: "straight prohibited"
+}
+item {
+    name: "t intersection",
+    id: 51,
+    display_name: "t intersection"
+}
+item {
+    name: "u turn",
+    id: 52,
+    display_name: "u turn"
+}
+item {
+    name: "u turn prohibited",
+    id: 53,
+    display_name: "u turn prohibited"
+}
+item {
+    name: "unguarded level crossing",
+    id: 54,
+    display_name: "unguarded level crossing"
+}
+item {
+    name: "width limit",
+    id: 55,
+    display_name: "width limit"
+}
+item {
+    name: "y intersection",
+    id: 56,
+    display_name: "y intersection"
+}
